@@ -1,3 +1,3 @@
 # Experiments
 
-### Repositório para experimentos com o Jupyter Notebook e aleatoriedades.
+### Repository for random experiments and jupyter projects
